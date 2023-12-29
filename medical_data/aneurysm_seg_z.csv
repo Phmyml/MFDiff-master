@@ -1,0 +1,11 @@
+subset,id,hospital,cta_img_file,aneurysm_seg_file
+train,1,hos_1,.../1/img.nii.gz,.../1/lab-L-90.nii.gz
+train,2,hos_1,.../2/img.nii.gz,.../2/lab-L-90.nii.gz
+train,3,hos_1,.../3/img.nii.gz,.../3/lab-L-90.nii.gz
+train,4,hos_1,.../4/img.nii.gz,.../4/lab-L-90.nii.gz
+train,5,hos_1,.../5/img.nii.gz,.../5/lab-L-90.nii.gz
+eval,1,hos_1,.../1/img.nii.gz,.../1/lab-S-90.nii.gz
+eval,2,hos_1,.../2/img.nii.gz,.../2/lab-S-90.nii.gz
+eval,3,hos_1,.../3/img.nii.gz,.../3/lab-S-90.nii.gz
+eval,4,hos_1,.../4/img.nii.gz,.../4/lab-S-90.nii.gz
+eval,5,hos_1,.../5/img.nii.gz,.../5/lab-S-90.nii.gz
